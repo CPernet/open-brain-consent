@@ -1,4 +1,4 @@
-.. _chap_consent_ultimate:
+.. _chap_consent_ultimate_gdpr:
 
 It is recommended to have an information sheet and consent for the study of interest and also a specific form for data sharing.
 The form includes some sentences in square brackets [], meaning they may be removed depending on your local legislation and ethics committee.
@@ -14,7 +14,8 @@ By agreeing to participate, you will be making a free and generous gift for rese
 
 Confidentiality of your data
 ____________________________
-To the best of our knowledge, the data we release will not contain information that can directly identify you. To protect your privacy, the data will be given a code. Your name and other information that can directly identify you, will be omitted. [Identifiable facial features on the brain scans will also be removed]. Data can only be traced back to you with an encryption key, available to the data processor (i.e. people involved in the study). The encryption key remains safely stored in the local research institute. The data cannot be traced back to you in reports and publications about the study. However, by using additional data linked to your name (for example brain scans obtained from your medical records) one could potentially associate your imaging or other information in our database back to you. In addition, a security breach (break in or cyber attack) might lead to someone being able to link you to your data. This risk is very low because your data are stored in a secure database, and the information about your identity is stored separately from the data themselves, linked only through a code (the encryption key).
+To the best of our knowledge, the data we release will not contain information that can directly identify you. To protect your privacy, the data will be given a code. Your name and other information that can directly identify you, will be omitted. [Identifiable facial features on the brain scans will also be removed]. Data can only be traced back to you with an encryption key, available to the data processor (i.e. people involved in the study). The encryption key remains safely stored in the local research institute. The data cannot be traced back to you in reports and publications about the study. However, by using additional data linked to your name (for example brain scans obtained from your medical records) one could potentially associate your imaging or other information in our database back to you. The risks of accessing such data from our servers have however been assessed and are considered to be low [(see the university/centre Data Privacy Impact Assessment @http://www.xxxx)].
+
 
 Access to your data for verification
 ____________________________________
@@ -44,4 +45,4 @@ If you have questions or complaints about the processing of your personal data, 
 
 - Date:
 - Collected by:
-- Signature:  
+- Signature:
