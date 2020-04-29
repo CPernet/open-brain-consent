@@ -11,17 +11,17 @@ Content
 =======
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 3
 
    samples.rst
    recommendations.rst
-   discussions.rst
    ultimate.rst
    ultimate_gdpr.rst
    data_privacy_impact_assessment.rst
    data_user_agreement.rst
    anon_tools.rst
    contribute.rst
+   discussions.rst
 
 
 
